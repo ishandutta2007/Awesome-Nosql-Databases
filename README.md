@@ -1,6 +1,6 @@
 # Awesome-Nosql-Databases
 
-# Top NoSQL Databases Ecosystem
+## Top NoSQL Databases Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Horizontal Scalability, Flexible Schemas & Multi-Model Support*  
