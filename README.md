@@ -82,7 +82,7 @@ The following table details leading fully managed cloud NoSQL services, **sorted
 
 ## ⚡ Top Open-Source NoSQL Projects
 
-Below are the most prominent open-source NoSQL databases, **ranked strictly by GitHub star count (descending)**. Every repository badge links directly to its stargazer community.
+Below are the most prominent open-source NoSQL databases, **ranked strictly by GitHub Stars_Count (descending)**. Every repository badge links directly to its stargazer community.
 
 ---
 
@@ -304,7 +304,7 @@ Contributions are warmly welcomed! Help keep this directory accurate, neutral, a
 3. **Add or Update Entries**:
    - Provide factual, vendor-neutral technical summaries.
    - For SaaS products: include specific entry pricing, free tier thresholds, and company valuation/revenue metrics.
-   - For open-source repos: include star badges linking to `/stargazers`, correct licensing, and architectural trade-offs.
+   - For open-source repos: include Stars_Badges linking to `/stargazers`, correct licensing, and architectural trade-offs.
 4. **Submit a Pull Request**: Provide a clear explanation of additions and cite authoritative documentation.
 
 ---
